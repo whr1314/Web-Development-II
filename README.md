@@ -1,5 +1,5 @@
 # Web-Development-II
-A dynamic full-stack Web application for managing and discovering community charity activities. This platform connects charitable organizations with potential participants through an intuitive interface and a powerful back-end system.
+A dynamic full-stack Web application for managing and discovering community charity activities.   This platform connects charitable organizations with potential participants through an intuitive interface and a powerful back-end system.
 
 Functional features
 Event Discovery: Browse upcoming charity events and detailed information
@@ -74,11 +74,10 @@ Double-click index.html to open it in your browser
 
 
 Important Note
-The server must be running: The website requires the backend server to be active. If you close the terminal running node server.js, the website will stop working.
+The server must be running: The website requires the backend server to be active.   If you close the terminal running node server.js, the website will stop working.
+My website needs to enter cmd, npm install and npm start in sequence in the terminal in order to open it from index.html in the folder
 
 Database connection: Ensure that MySQL is running and that the database credentials in event_db.js match your local Settings.
-
-Port configuration: The server runs on port 3000 by default. If occupied, port 3001 will be automatically attempted.
 
 Access entry
 Home Page: client/index.html - The main login page, including the list of activities
